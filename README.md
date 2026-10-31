@@ -2,7 +2,7 @@
 
 The Odin Project's Etch-a-Sketch Project: https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 
-Live preview: https://zunaid-hassan.github.io/odin-etch-a-sketch/
+Live preview: https://zunaid-hassan.github.io/etch-a-sketch-odin/
 
 A browser-based sketchpad built as part of The Odin Project Foundations curriculum, demonstrating core web development skills.
 
